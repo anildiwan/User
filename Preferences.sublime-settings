@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Cucumber",
+		"Gherkin (Cucumber) Formatter",
+		"GitHub Flavored Markdown Preview",
+		"One Dark Color Scheme",
+		"Ruby Blue Color Scheme",
+		"Ruby Completions",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}
