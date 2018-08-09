@@ -6,10 +6,18 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
 		"Dockerfile Syntax Highlighting",
+		"GitGutter",
 		"Javap",
 		"Package Control",
 		"Pretty YAML",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-yamllint",
 		"Terminal",
